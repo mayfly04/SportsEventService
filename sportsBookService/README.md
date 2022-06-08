@@ -1,8 +1,7 @@
-# SportsEventService
-Showcase the micro service api design and also webflux 
+# Getting Started
 
-
-# Service Overview
+### Reference Documentation
+For further reference, please consider the following sections:
 
 * Service runs on 8080 default using an in memory redis cache for persistence
 * It basically has got 2 GET end points
@@ -18,6 +17,9 @@ Showcase the micro service api design and also webflux
 
 
 * There is tests written to show case the way I would go about writing unit test, integrations tests. Ideally I would like to test files for each n every Java class if possible.
-
-
 ***NOTE : My idea to show case the way I would write the tests.
+
+
+* 
+
+
